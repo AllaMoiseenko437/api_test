@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Aug 25 19:35:31 GMT 2024","Sun Aug 25 19:35:32 GMT 2024","863","","pet_request","","","","test_pet_poperation[78909-cat-pending-cat_updated-available]",""
+"passed","Sun Aug 25 19:35:31 GMT 2024","Sun Aug 25 19:35:31 GMT 2024","560","","pet_request","","","","test_pet_poperation[14568-dog-available-dog_updated-available]",""
+"passed","Sun Aug 25 19:35:30 GMT 2024","Sun Aug 25 19:35:31 GMT 2024","768","","pet_request","","","","test_pet_poperation[14567-python-available-python_updated-available]",""
